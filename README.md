@@ -1,2 +1,9 @@
-# news-monitor-demo
-Advanced news/trend change monitor demo with Markdown, thumbnails, Hindi/English UI
+# News / Trend Monitor Demo
+
+Advanced change-detection demo with:
+- Markdown content preview
+- Open Graph / Twitter thumbnails
+- Full Hindi (हिंदी) and English UI
+- SHA-256 change hashing
+
+Live: https://news-monitor-demo.vercel.app
